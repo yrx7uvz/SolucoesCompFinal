@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-appwrite": "^20.3.0"
+  }
+}
